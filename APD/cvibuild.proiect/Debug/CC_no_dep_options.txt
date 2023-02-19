@@ -1,0 +1,1 @@
+-force-include-file "proiect.c";"c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c" -force-include-file "proiect.h";"c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.h" 

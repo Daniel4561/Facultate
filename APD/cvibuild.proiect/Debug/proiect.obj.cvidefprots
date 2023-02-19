@@ -1,0 +1,95 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:81:5"
+
+[PanelFunction]
+Class="Function"
+Prototype="int PanelFunction(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:101:17"
+
+[PowerSwith]
+Class="Function"
+Prototype="int PowerSwith(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:120:17"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:173:17"
+
+[FilterFunction]
+Class="Function"
+Prototype="int FilterFunction(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:271:17"
+
+[OnPrev]
+Class="Function"
+Prototype="int OnPrev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:344:17"
+
+[OnNext]
+Class="Function"
+Prototype="int OnNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:366:17"
+
+[OnDerivate]
+Class="Function"
+Prototype="int OnDerivate(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:388:17"
+
+[OnAnvelope]
+Class="Function"
+Prototype="int OnAnvelope(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:410:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:436:17"
+
+[OnPanel_2]
+Class="Function"
+Prototype="int OnPanel_2(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:460:17"
+
+[OnWindowType]
+Class="Function"
+Prototype="int OnWindowType(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:478:17"
+
+[LoadFerestruire]
+Class="Function"
+Prototype="int LoadFerestruire(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:498:17"
+
+[OnPrev2]
+Class="Function"
+Prototype="int OnPrev2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:600:17"
+
+[OnNext2]
+Class="Function"
+Prototype="int OnNext2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:623:17"
+
+[OnRing]
+Class="Function"
+Prototype="int OnRing(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:646:17"
+
+[LoadSpectru]
+Class="Function"
+Prototype="int LoadSpectru(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:661:17"
+
+[OnPrev3]
+Class="Function"
+Prototype="int OnPrev3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:746:17"
+
+[OnNext3]
+Class="Function"
+Prototype="int OnNext3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Danu\Desktop\Budu_Daniel_1206B\Budu Daniel 1\proiect.c:766:17"
+
